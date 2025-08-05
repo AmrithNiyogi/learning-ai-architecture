@@ -1,2 +1,2 @@
-# learning-ai-architecture
+# Learning AI Architecture
 Repo for Learning AI Based Architecture.
